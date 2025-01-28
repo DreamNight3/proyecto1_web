@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(139, 223, 234);
+}
+img{
+    width: 250px;
+    height: 500px;
+}
+#img1{
+    width: 500px;
+    height: 500px;
+    border-radius: 81px;
+}
+#botoncito{
+    color:red;
+    background:blue;
+    font-family:Arial;
+    border-radius: 10px;
+    font-size: larger;
+    cursor: all-scroll;
+    
+}
+#botoncito:hover{
+    background-color: aqua;
+}
+#botoncito:active{
+    background-color:aquamarine;
+}
+
+nav{
+    background-color: rgb(58, 58, 159);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+li{
+    list-style: none;
+}
+nav ul li{
+    display: contents;
+    font-family: cursive;
+    font-size: 25px;
+}
+a{
+    color: rgb(213, 196, 229);
+    text-decoration: nonfr3g;
+}
+nav ul li a{
+    padding: 40px;
+}
+a:hover{
+    background-color: bisque;
+}
