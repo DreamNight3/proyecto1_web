@@ -2,5 +2,5 @@
 const boton=document.getElementById('botoncito')
 //Agregar un evento al boton 
 boton.addEventListener('click',function(){
-    alert("Hola ya diste click");
+    alert("Bienvenido a mi pagina!!");
 });
